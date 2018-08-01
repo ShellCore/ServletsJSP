@@ -14,3 +14,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 6. Tipos de navegadores
 7. Códigos de estado HTTP
 8. Cabeceros de respuesta con Servlets
+9. Manejo de cookies
