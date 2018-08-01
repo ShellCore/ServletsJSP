@@ -17,3 +17,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 9. Manejo de cookies
 10. Contador de visitas con Cookies
 11. Manejo de sesiones con HTTPSession
+12. Carrito de compras con HTTPSession
