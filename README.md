@@ -12,3 +12,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 4. Manejo de formularios HTML con Servlets
 5. Manejo de cabeceros HTTP
 6. Tipos de navegadores
+7. Códigos de estado HTTP
