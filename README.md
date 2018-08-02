@@ -24,3 +24,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 16. Declaraciones con JSPs
 17. Documentos JSPs
 18. Excel JSPs con directivas
+19. Manejo de excepciones con directivas en JSPs
