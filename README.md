@@ -20,3 +20,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 12. Carrito de compras con HTTPSession
 13. Hola Mundo con JSPs
 14. Expresiones con JSPs
+15. Scriplets con JSPs
