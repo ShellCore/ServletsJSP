@@ -29,3 +29,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 21. Inclusión dinámica con JSPs
 22. Manejo de JavaBeans con JSPs
 23. Manejo de Expression Languages usando JSPs
+24. Manejo de JSTL en JSPs
