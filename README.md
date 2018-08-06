@@ -27,3 +27,4 @@ En este repositorio se van a almacenar todos los ejercicios que se generan dentr
 19. Manejo de excepciones con directivas en JSPs
 20. Inclusión estática con JSPs
 21. Inclusión dinámica con JSPs
+22. Manejo de JavaBeans con JSPs
